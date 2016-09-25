@@ -3,7 +3,7 @@ my omz custom theme
 
 
 ```
-  $ curl https://github.com/nogates/zsh-theme/blob/master/nogates.zsh-theme > ~/.oh-my-zsh/custom/themes/nogates.zsh-theme
+  $ curl https://raw.githubusercontent.com/nogates/zsh-theme/master/nogates.zsh-theme > ~/.oh-my-zsh/custom/themes/nogates.zsh-theme
 
 ```
 
